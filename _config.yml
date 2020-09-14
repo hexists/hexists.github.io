@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "hexists"
-  avatar           : "/assets/images/profile/sunset.jpeg"
+  avatar           : "/assets/imgs/profile/sunset.jpeg"
   bio              : "자연어처리 개발자입니다. 부족한 부분은 언제든 댓글로 남겨주세요."
   location         : "Republic of Korea"
   email            : "hexists@daum.net"

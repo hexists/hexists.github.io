@@ -20,13 +20,13 @@ title                    : "Welcome Hexists's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "hexists"
-description              : "NLP"
+description              : "자연어처리(Natural Language Processing, NLP)에 관련된 글을 적습니다."
 url                      : "https://hexists.github.io"
 baseurl                  : ""
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "hexists/hexists.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "자연어처리 블로그"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "hexists"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **NLP** Programmer."
-  location         : "Korea"
+  avatar           : "/assets/images/profile/sunset.jpeg"
+  bio              : "자연어처리 개발자입니다. 부족한 부분은 언제든 댓글로 남겨주세요."
+  location         : "Republic of Korea"
   email            : "hexists@daum.net"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:hexists@daum.net"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/hexists"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -123,7 +123,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: mailto:hexists@daum.net
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
